@@ -12,8 +12,9 @@
 * 安卓系统
 >OK影视「双端」  
 >天光云影「电视端」   
->TiviMate「电视端」   
->OTT「电视端」   
+>TiviMate「电视端」 （正版收费）    
+>OTT「电视端」
+>极致TV播放器「电视端」（正版收费）   
 >Televizo「手机端」  
 * Win系统
 >VideoPlayer「浏览器」  
